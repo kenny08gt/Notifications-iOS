@@ -13,6 +13,7 @@
 		1786D0A51E5E322D004929CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1786D0A41E5E322D004929CC /* Assets.xcassets */; };
 		1786D0A81E5E322D004929CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1786D0A61E5E322D004929CC /* LaunchScreen.storyboard */; };
 		1786D0B31E5E322D004929CC /* NotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1786D0B21E5E322D004929CC /* NotificationsTests.swift */; };
+		1786D0BE1E5E3A97004929CC /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1786D0BD1E5E3A97004929CC /* image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1786D0AE1E5E322D004929CC /* NotificationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotificationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1786D0B21E5E322D004929CC /* NotificationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsTests.swift; sourceTree = "<group>"; };
 		1786D0B41E5E322D004929CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1786D0BD1E5E3A97004929CC /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				1786D0A41E5E322D004929CC /* Assets.xcassets */,
 				1786D0A61E5E322D004929CC /* LaunchScreen.storyboard */,
 				1786D0A91E5E322D004929CC /* Info.plist */,
+				1786D0BD1E5E3A97004929CC /* image.jpg */,
 			);
 			path = Notifications;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				1786D0A81E5E322D004929CC /* LaunchScreen.storyboard in Resources */,
 				1786D0A51E5E322D004929CC /* Assets.xcassets in Resources */,
 				1786D0A31E5E322D004929CC /* Main.storyboard in Resources */,
+				1786D0BE1E5E3A97004929CC /* image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
